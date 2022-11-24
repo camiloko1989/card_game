@@ -278,40 +278,38 @@ namespace Card_Game
         {
             double userResult = Results(userCards);
             double PcResult = Results(pcCards);
-            string blastPc = "";
-            string blastUser = "";
 
-            if (userResult <= 10)
+            if (userResult > 10 && PcResult > 10)
             {
-                blastUser = "You Blast! ";
+                MessageBox.Show("Both Blast! Computer Wins!");
+            }
+            else if (userResult > 10 && PcResult <= 10)
+            {
+                MessageBox.Show("You Blast! Computer Wins!");
+            }
+            else if (userResult <= 10 && PcResult > 10)
+            {
+                MessageBox.Show("Computer Blast! You wins!");
+            }
+            else if (userResult <= 10 && PcResult <= 10)
+            {
+                if (userResult > PcResult)
+                {
+                    MessageBox.Show("You Win!");
+                }
+                else if (userResult < PcResult)
+                {
+                    MessageBox.Show("Computer Wins!");
+                }
+                else
+                {
+                    MessageBox.Show("You Win!");
+                }
             }
 
-            if (PcResult <= 10)
-            {
-                blastPc = "You Blast! ";
-            }
 
-            if (PcResult <= 10 && userResult <= 10)
-            {
-                MessageBox.Show("Both Blast, Computer Wins! ");
-            }
-            else if (userResult > PcResult)
-            {
-                MessageBox.Show(blastUser + "User Wins! " + userResult.ToString());
-            }
-            else if (userResult < PcResult)
-            {
-                MessageBox.Show(blastPc + "Computer Wins! " + PcResult.ToString());
-            }
-            else if (PcResult > 10 && userResult > 10)
-            {
-                MessageBox.Show("No one blast, User Wins! " + userResult.ToString());
-            }
-            else
-            {
-                MessageBox.Show("Draw! " + PcResult.ToString());
-            }
         }
+
         private double Results(List<string> userCards)
         {
             double sum = 0;

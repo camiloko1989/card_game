@@ -9,3 +9,14 @@ C:\Users\camil\OneDrive\Documents\Douglas\OneDrive - Douglas College\Intro to Pr
 C:\Users\camil\OneDrive\Documents\Douglas\OneDrive - Douglas College\Intro to Programming\Week_10\Assesment_2\Card_Game\Card_Game\obj\Debug\Card_Game.csproj.CoreCompileInputs.cache
 C:\Users\camil\OneDrive\Documents\Douglas\OneDrive - Douglas College\Intro to Programming\Week_10\Assesment_2\Card_Game\Card_Game\obj\Debug\Card_Game.exe
 C:\Users\camil\OneDrive\Documents\Douglas\OneDrive - Douglas College\Intro to Programming\Week_10\Assesment_2\Card_Game\Card_Game\obj\Debug\Card_Game.pdb
+C:\Users\camil\OneDrive\Documents\Platzi\C#\Card_Game\Card_Game\bin\Debug\Card_Game.exe.config
+C:\Users\camil\OneDrive\Documents\Platzi\C#\Card_Game\Card_Game\bin\Debug\Card_Game.exe
+C:\Users\camil\OneDrive\Documents\Platzi\C#\Card_Game\Card_Game\bin\Debug\Card_Game.pdb
+C:\Users\camil\OneDrive\Documents\Platzi\C#\Card_Game\Card_Game\obj\Debug\Card_Game.csproj.AssemblyReference.cache
+C:\Users\camil\OneDrive\Documents\Platzi\C#\Card_Game\Card_Game\obj\Debug\Card_Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\camil\OneDrive\Documents\Platzi\C#\Card_Game\Card_Game\obj\Debug\Card_Game.Form1.resources
+C:\Users\camil\OneDrive\Documents\Platzi\C#\Card_Game\Card_Game\obj\Debug\Card_Game.Properties.Resources.resources
+C:\Users\camil\OneDrive\Documents\Platzi\C#\Card_Game\Card_Game\obj\Debug\Card_Game.csproj.GenerateResource.cache
+C:\Users\camil\OneDrive\Documents\Platzi\C#\Card_Game\Card_Game\obj\Debug\Card_Game.csproj.CoreCompileInputs.cache
+C:\Users\camil\OneDrive\Documents\Platzi\C#\Card_Game\Card_Game\obj\Debug\Card_Game.exe
+C:\Users\camil\OneDrive\Documents\Platzi\C#\Card_Game\Card_Game\obj\Debug\Card_Game.pdb
